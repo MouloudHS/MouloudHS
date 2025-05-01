@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Mouloud
 
-<!--
-**MouloudHS/MouloudHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD specializing in **Artificial Intelligence** — with a strong focus on building intelligent systems that scale.
 
-Here are some ideas to get you started:
+💻 I work across:
+- **Backend development** with **Python**, **FastAPI**, and **Node.js**
+- **Frontend & Mobile** using **React (Next.js)** and **React Native (Expo)**
+- **AI/ML** with tools like **PyTorch**, **TensorFlow**, **scikit-learn**, and **Hugging Face**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I enjoy transforming cutting-edge research into real-world products — from prototypes to production.
+
+📚 Always exploring what's next in AI, system design, and developer tooling.
+
+🧠 Open to collaborations that advance what’s possible with AI.
