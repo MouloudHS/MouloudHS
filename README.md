@@ -13,4 +13,4 @@ I'm a PhD specializing in **Artificial Intelligence** — with a strong focus on
 
 🧠 Open to collaborations that advance what’s possible with AI.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouloudHS&hide=html&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouloudHS&count_private=true)
